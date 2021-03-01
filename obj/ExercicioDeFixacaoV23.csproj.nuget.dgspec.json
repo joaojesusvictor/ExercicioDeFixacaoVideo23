@@ -25,7 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.controlshop.com.br/nuget65e3c2de-60c2-4cbd-b6c2-cf714fedaf04": {},
+          "\\\\xrm02\\SHARED FILES\\NUGET": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
